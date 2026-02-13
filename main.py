@@ -6,7 +6,7 @@ st.set_page_config(page_title="Basket Pro Tracker", layout="wide")
 
 # Liste officielle des joueurs [cite: 1]
 PLAYERS = [
-    "M'Baye", "Lucas", "Yehya", "Ronice", "Jobin", "Kevin", 
+    "M'Baye", "Lucas", "Yehya", "Ronice", "Jobin", 
     "Antoine", "Johan", "Franck", "Timéo", "Klérance", 
     "Keran", "Yannis", "Mehdi"
 ]
